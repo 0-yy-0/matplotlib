@@ -10,5 +10,5 @@ plt.xlabel("Value", fontsize = 14)
 plt.ylabel("Square Value", fontsize = 14)
 
 # 设置刻度标记的大小
-plt.tick_params(axis = 'both', labelsize = 14)
+plt.tick_params(axis='both', labelsize = 14)
 plt.show()
